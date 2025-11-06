@@ -1,2 +1,3 @@
 # my-sql-course
-SQL Course
+SELECT * FROM PatientStay
+
